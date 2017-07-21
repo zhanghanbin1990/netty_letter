@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty_letter.iml" filepath="$PROJECT_DIR$/.idea/modules/netty_letter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty_letter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/netty_letter_main.iml" group="netty_letter" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty_letter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/netty_letter_test.iml" group="netty_letter" />
     </modules>
   </component>
 </project>
